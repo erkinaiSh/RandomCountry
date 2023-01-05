@@ -7,15 +7,15 @@ export default class Header extends PureComponent {
       <header className="component-header">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/600px-Flag_of_Romania.svg.png?20160520173724"
-          width="32"
-          height="32"
+          width="35"
+          height="35"
           alt=""
         />
         Random Country
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/600px-Flag_of_Romania.svg.png?20160520173724"
-          width="40"
-          height="32"
+          width="35"
+          height="35"
           alt=""
         />
         <hr></hr>
