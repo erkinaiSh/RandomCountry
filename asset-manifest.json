@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RandomCountry/static/css/main.8c950fd1.chunk.css",
+    "main.js": "/RandomCountry/static/js/main.c4a7c4b0.chunk.js",
+    "main.js.map": "/RandomCountry/static/js/main.c4a7c4b0.chunk.js.map",
+    "runtime-main.js": "/RandomCountry/static/js/runtime-main.3db6d02d.js",
+    "runtime-main.js.map": "/RandomCountry/static/js/runtime-main.3db6d02d.js.map",
+    "static/js/2.67d9d84c.chunk.js": "/RandomCountry/static/js/2.67d9d84c.chunk.js",
+    "static/js/2.67d9d84c.chunk.js.map": "/RandomCountry/static/js/2.67d9d84c.chunk.js.map",
+    "index.html": "/RandomCountry/index.html",
+    "precache-manifest.1633644664156cc797316e62909a09fd.js": "/RandomCountry/precache-manifest.1633644664156cc797316e62909a09fd.js",
+    "service-worker.js": "/RandomCountry/service-worker.js",
+    "static/css/main.8c950fd1.chunk.css.map": "/RandomCountry/static/css/main.8c950fd1.chunk.css.map",
+    "static/js/2.67d9d84c.chunk.js.LICENSE.txt": "/RandomCountry/static/js/2.67d9d84c.chunk.js.LICENSE.txt",
+    "static/media/romania-flag.jpg": "/RandomCountry/static/media/romania-flag.423c53a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3db6d02d.js",
+    "static/js/2.67d9d84c.chunk.js",
+    "static/css/main.8c950fd1.chunk.css",
+    "static/js/main.c4a7c4b0.chunk.js"
+  ]
+}
